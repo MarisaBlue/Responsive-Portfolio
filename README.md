@@ -18,6 +18,12 @@ Marisa B. Alford
 
 #####Preview Screenshots---------
 
+Contact Page Preview
+https://github.com/MarisaBlue/Responsive-Portfolio/blob/main/%20Preview-%20Contact%20Page.png
+About Page Preview
+https://github.com/MarisaBlue/Responsive-Portfolio/blob/main/Preview-%20About%20Page.png
+Portfolio Page Preview
+https://github.com/MarisaBlue/Responsive-Portfolio/blob/main/Preview-%20Portfolio%20Page.png
 
 
 
